@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "水族館で会いましょう",
+  "base_artist": "佐藤 乃子",
+  "createdAt": "2025-12-22T23:03:54.981658Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水族館で会いましょう (feat. 葛駄夜音)",
+      "artist": "佐藤乃子",
+      "has_synced": false,
+      "path": "select/pl_01_水族館で会いましょう_(feat._葛駄夜音)_佐藤乃子.txt"
+    }
+  ]
+}
